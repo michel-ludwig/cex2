@@ -4,7 +4,7 @@
 (*  University of Liverpool                                *)
 (*                                                         *)
 (*  Copyright (C) 2010-2012                                *)
-(*  Michel Ludwig (michel.ludwig@liverpool.ac.uk)          *)
+(*  Michel Ludwig (michel.ludwig@gmail.com)                *)
 (*  University of Liverpool                                *)
 (*                                                         *)
 (*  This program is free software; you can redistribute    *)
@@ -94,7 +94,7 @@ let program_info = "============================================================
                    "\nCEX Version " ^ versionString ^
                    "\n==================================================================================" ^
                    "\nCopyright (C) 2008-2012 by Boris Konev (konev@liverpool.ac.uk)," ^
-                   "\n                           Michel Ludwig (michel.ludwig@liverpool.ac.uk), and " ^
+                   "\n                           Michel Ludwig (michel.ludwig@gmail.com), and " ^
                    "\n                           University of Liverpool" ^
                    "\n==================================================================================" ^
                    "\nThis program uses the reasoner CB internally, which is Copyright (C) by" ^

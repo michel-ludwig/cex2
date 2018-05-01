@@ -4,7 +4,7 @@
 (*  University of Oxford                                   *)
 (*                                                         *)
 (*  Copyright (C) 2010-2012                                *)
-(*  Michel Ludwig (michel.ludwig@liverpool.ac.uk)          *)
+(*  Michel Ludwig (michel.ludwig@gmail.com)                *)
 (*  University of Liverpool                                *)
 (*                                                         *)
 (*  This program is free software; you can redistribute    *)
